@@ -7,8 +7,6 @@ CloudFlare 扫描器 （简称CFS)  适配 Win  macOS  Android
 <img width="611" height="476" alt="14eaeb7504c8db5685f261513fd8ecf2" src="https://github.com/user-attachments/assets/46976c98-f8ce-4d55-948b-05151c0f4d03" />
 
 
-软件演示视频：https://www.youtube.com/watch?v=Fw2W4B77bts
-
 🚀 高效扫描：自动从 CloudFlare 官方 IP 段生成 IP 地址
 
 📊 双模式测速：完全测速 + 地区测速，满足不同需求
